@@ -1,4 +1,4 @@
-# ngjs
+# NG.js
 The Nervous Groove API
 
 In this API you will find codes for the Web programming of DAWs and Mixers.
